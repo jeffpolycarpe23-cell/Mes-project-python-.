@@ -19,4 +19,6 @@ Ce dépôt regroupe mes premières applications concrètes, développées entiè
 Perfectionner mes compétences en Python pour devenir un développeur professionnel capable de créer des solutions logicielles à distance (Remote work).
 
 
+![Visiteurs](https://komarev.com/ghpvc/?username=jeffpolycarpe23-cell&color=green&style=flat-square)
+
 
