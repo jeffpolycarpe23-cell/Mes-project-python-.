@@ -1,24 +1,20 @@
+# 💰 Convertisseur de Devises Universel
 
-# 🚀 Mes Projets Python 
+Ce projet est une application web interactive permettant de convertir plus de 160 monnaies mondiales en temps réel grâce à l'intégration d'une API financière.
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur passionné par l'apprentissage de la programmation Python et la résolution de problèmes logiques. 
+## 🚀 Fonctionnalités
+* **Taux en temps réel :** Données actualisées pour toutes les devises mondiales (USD, EUR, HTG, XOF, etc.).
+* **Interface Fluide :** Optimisée pour une utilisation sur mobile et ordinateur.
+* **Précision :** Calculs basés sur les derniers taux du marché.
 
-Ce dépôt regroupe mes premières applications concrètes, développées entièrement dans un environnement mobile.
+## 🛠 Technologies utilisées
+* **Python** (Cœur de l'application)
+* **Streamlit** (Interface utilisateur web)
+* **API ExchangeRate-API** (Données financières)
 
-### 📁 Aperçu des projets :
-* **Gestion.py** : Un système complet pour la gestion des ventes d'eau avec calcul automatique des remises et rapports de fin de journée.
-* **Calculatrice.py** : Une calculatrice interactive gérant les opérations de base et la sécurité des divisions par zéro.
-* **Logique de données** : Scripts variés sur la classification par âge et la manipulation des listes.
+## 🔗 Tester l'application
+L'application est déployée et accessible ici : 
+👉 [Lien vers le Convertisseur en direct](https://qnhqgijq.streamlit.app/)
 
-### 🛠️ Compétences Exposées :
-* Maîtrise des structures de contrôle (Boucles, Conditions).
-* Traitement des erreurs et exceptions (`try/except`).
-* Développement agile sur mobile (iPhone).
-
-### 🎯 Mon Objectif :
-Perfectionner mes compétences en Python pour devenir un développeur professionnel capable de créer des solutions logicielles à distance (Remote work).
-
-
-![Visiteurs](https://komarev.com/ghpvc/?username=jeffpolycarpe23-cell&color=green&style=flat-square)
-
-
+---
+*Développé par Jeff - Portfolio GitHub : [jeffpolycarpe23-cell](https://github.com/jeffpolycarpe23-cell)*
